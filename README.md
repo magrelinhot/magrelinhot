@@ -35,11 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Magrelinhot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magrelinhot&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magrelinhot&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
