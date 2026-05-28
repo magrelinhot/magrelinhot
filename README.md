@@ -1,4 +1,5 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:F05033&height=120&section=header&text=Gustavo%20Lima%20%C2%B7%20Full%20Stack%20em%20forma%C3%A7%C3%A3o%20%F0%9F%9B%A0%EF%B8%8F&fontSize=28&fontColor=000000&animation=fadeIn)
+#![header](https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:F05033&height=120&section=header&text=Gustavo%20Lima%20%C2%B7%20Full%20Stack%20%F0%9F%8F%80%20em%20forma%C3%A7%C3%A3o%20%F0%9F%9B%A0%EF%B8%8F&fontSize=28&fontColor=000000&animation=fadeIn)
+
 ### Gustavo de Fraga Lima · @Magrelinhot
 
 ---
