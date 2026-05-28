@@ -49,5 +49,5 @@
   <img src="https://komarev.com/ghpvc/?username=Magrelinhot&color=blue&style=flat-square" alt="Visitantes" />
 </p>
 
-<p align="center">Feito com ❤️ por Gustavo de Fraga Lima</p>
+
 
